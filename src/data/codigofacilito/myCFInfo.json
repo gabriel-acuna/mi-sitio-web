@@ -75,16 +75,27 @@
          },
          {
             "title":"Crea un sitio personal con Gatsby",
-            "progress":"50.0",
+            "progress":"100.0",
             "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"
+         },
+         {
+            "title":"Curso Profesional de Android",
+            "progress":"25.0",
+            "url":"http://codigofacilito.com/courses/android-profesional"
          }
       ],
       "finished_courses":[
          {
             "title":"Curso Profesional de Python",
             "url":"http://codigofacilito.com/courses/python-profesional"
+         },
+         {
+            "title":"Crea un sitio personal con Gatsby",
+            "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"
          }
       ]
    },
-   "errors":[]
+   "errors":[
+
+   ]
 }
