@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación Académica",
+    "description": "Formación académica, grdaos de estudio e instituciones a las que asistí",
+    "items": [
+        {
+            "name": "Universidad Laica Eloy Alfaro de Manabí",
+            "degree": "Ing. en Sistemas",
+            "mention":""
+        },
+        {
+            "name": "Colegio Nacional Alejo Lascaco",
+            "degree": "Técnico en Adminsitación y sistemas",
+            "mention":"Administración de Sistemas"
+        }
+    ]
+}

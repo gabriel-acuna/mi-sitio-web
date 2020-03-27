@@ -1,0 +1,90 @@
+{
+   "data":{
+      "email":"gstef09@hotmail.com",
+      "username":"gab0_09",
+      "certificates":[
+         {
+            "score":9,
+            "code":"830b3cdd-3074-48e6-86db-5d017182a1a8",
+            "title":"Curso Profesional de Python"
+         }
+      ],
+      "articles":[
+
+      ],
+      "courses":[
+         {
+            "title":"Curso de Javascript y Jquery Gratis",
+            "progress":"0.0",
+            "url":"http://codigofacilito.com/courses/jquery1"
+         },
+         {
+            "title":"Curso para crear tu primera página web Gratis",
+            "progress":"0.0",
+            "url":"http://codigofacilito.com/courses/primera_pagina"
+         },
+         {
+            "title":"Curso de AngularJS Gratis",
+            "progress":"54.0",
+            "url":"http://codigofacilito.com/courses/angularjs"
+         },
+         {
+            "title":"Curso de Laravel Gratis",
+            "progress":"25.0",
+            "url":"http://codigofacilito.com/courses/laravel"
+         },
+         {
+            "title":"Curso gratuito de Flask",
+            "progress":"48.0",
+            "url":"http://codigofacilito.com/courses/flask"
+         },
+         {
+            "title":"Curso de MongoDB",
+            "progress":"57.0",
+            "url":"http://codigofacilito.com/courses/mongodb"
+         },
+         {
+            "title":"Curso Profesional de Vue",
+            "progress":"66.0",
+            "url":"http://codigofacilito.com/courses/vue"
+         },
+         {
+            "title":"Taller para consultar datos de una API con Vue",
+            "progress":"37.0",
+            "url":"http://codigofacilito.com/courses/rest-api-vue"
+         },
+         {
+            "title":"Creación de un proyecto con Vue",
+            "progress":"0.0",
+            "url":"http://codigofacilito.com/courses/vue-proyecto"
+         },
+         {
+            "title":"Taller de Vue con Firebase",
+            "progress":"0.0",
+            "url":"http://codigofacilito.com/courses/vue-firebase"
+         },
+         {
+            "title":"Taller de Apps Universales con Nuxt y Vue",
+            "progress":"0.0",
+            "url":"http://codigofacilito.com/courses/taller-nuxt-vue"
+         },
+         {
+            "title":"Curso Profesional de Python",
+            "progress":"100.0",
+            "url":"http://codigofacilito.com/courses/python-profesional"
+         },
+         {
+            "title":"Crea un sitio personal con Gatsby",
+            "progress":"50.0",
+            "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"
+         }
+      ],
+      "finished_courses":[
+         {
+            "title":"Curso Profesional de Python",
+            "url":"http://codigofacilito.com/courses/python-profesional"
+         }
+      ]
+   },
+   "errors":[]
+}

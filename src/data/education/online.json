@@ -1,0 +1,15 @@
+{
+    "slug": "on-line",
+    "title": "Cursos en linea",
+    "description": "Cursos realizados en plataformas de educación en internet ",
+    "items": [
+        {
+            "name": "Gestión de proyectos con metodologías Ágiles y enfoques Lean. (5.ª edición)",
+            "platform": "MIRÍADAX"
+        },{
+            "name":  "Especialista en tecnologías Open Source Microsoft Azure",
+            "platform":"Microsoft LATAM Online Academy"
+        }
+
+    ]
+}
