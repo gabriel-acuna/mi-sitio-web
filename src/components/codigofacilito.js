@@ -21,7 +21,7 @@ export default () => {
           }
         }
       }`);
-    console.log(data);
+      
     return (
         <section>
             <div className="mt-24">
@@ -34,7 +34,7 @@ export default () => {
 
 
                 </div>
-                <div className="max-w-4xl mx-auto">
+                <div className="max-w-4xl mx-auto mb-2">
                 <Posts data={data.codigofacilitoJson.data.courses}
                         title="Mis cursos en Código Facilito"
                         card={Course} />

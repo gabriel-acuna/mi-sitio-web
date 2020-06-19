@@ -3,7 +3,7 @@ export default (props) => {
     const post = props.element;
     return (
         <div className="shadow  bg-white mr-4  mt-8 rounded" style={{width:'200px'}}>
-            <h4 className="font-bold"></h4>
+            
             <header className="h-40 bg-cover bg-center" style={{ backgroundImage: `url(${post.thumbnail})` }}>
 
 

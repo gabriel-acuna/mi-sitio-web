@@ -7,10 +7,10 @@ export default () => (
         <div className="container mx-auto p-12 max-w-4xl">
             <div className="flex justify-center items-center">
                 <div className="flex-1">
-                    <h1 className="text-6xl font-bold">¡Hola! Soy Gabriel</h1>
+                    <h1 className="text-5xl font-bold">¡Hola! Soy Gabriel</h1>
                     <p className="text-xl font-light">Soy desarrolldor FullStack</p>
                 </div>
-                <img src={ilustration} alt="review code" style={{ height: '300px' }}></img>
+                <img src={ilustration} alt="review code" style={{ width: '60%' }}></img>
 
             </div>
             <div>

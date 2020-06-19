@@ -2,7 +2,7 @@ import React from 'react';
 export default (props) => {
     const course = props.element;
     return (
-        <div className="shadow p-4 bg-white mr-4  flex-shrink-0 mt-8 rounded" style={{width:'200px'}}>
+        <div className="shadow p-4 bg-white mr-4  flex-shrink-0 mt-4 rounded" style={{width:'200px'}}>
             <h4 className="font-bold">
                 <a href="{course.url}">{course.title}</a>
             </h4>

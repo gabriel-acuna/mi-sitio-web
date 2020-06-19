@@ -3,7 +3,6 @@ import { graphql, Link } from 'gatsby';
 import EducationNav from '../components/education-nav';
 export default (props) => {
     const pageData = props.data.educationJson;
-    console.log(props.data);
     return (
         <div>
             <header className="py-12 border-blue-500 border-solid border-t-8">
@@ -22,7 +21,7 @@ export default (props) => {
                         <li className="bg-white shadow mt-4 flex" key={index}>
                             <p className="vertical-text">{pageData.slug}</p>
                             <div className="flex items-center flex-1 p-8">
-                                <div className="flex-1">
+                                <div className="flex-1 justify-around">
                                     <h3>{item.name}</h3>
                                     {
                                         item.degree && <span className="inline-block bg-purple-200 text-purple-700 p-2 mx-2">{item.degree}</span>
